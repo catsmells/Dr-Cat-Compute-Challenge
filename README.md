@@ -1,5 +1,5 @@
 ## What is the Dr. Cat Compute Challenge?
-An idea that came to me working late at night - what is the most resource-efficient method to calculate the largest prime expressible as the sum of three cubes?
+An idea that came to me working late at night - ***what is the most resource-efficient method to calculate the largest prime expressible as the sum of three cubes?***
 
 ## Submission Guidelines
 Find a way to do it better than the last user? Awesome! Submit a pull request with system specs, compute times, and the code you've written. All languages are fair game - even if you have to make them! Name your sumbission file (or directory) in the following manner:
